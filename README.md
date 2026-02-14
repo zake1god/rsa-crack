@@ -84,22 +84,31 @@ Ensure both commands below work:
 
 ------------------------------------------------------------------------
 
-3️⃣ Wordlist File
+3️⃣ Wordlist
 
-ZRACK supports large high-quality wordlists (100MB+ recommended).
+This project does **not** include large wordlists by default.
 
-Wordlist characteristics:
+You are encouraged to use your own wordlists or obtain them from reputable open-source collections.
 
--   Real-world password leaks
--   Common passphrase phrases
--   Mixed case variations
--   Symbol substitutions (@, !, 0, etc.)
--   Human-readable patterns
+### 🔗 Recommended Source
 
-Example:
+One of the most trusted and widely used security wordlist repositories:
 
-    rockyou.txt
-    custom_dictionary.txt
+**SecLists by Daniel Miessler**  
+https://github.com/danielmiessler/SecLists
+
+SecLists provides high-quality, curated wordlists for:
+
+- Password cracking
+- SSH passphrase testing
+- Web application security testing
+- Red team and blue team assessments
+
+### 🔎 Suggested Paths in SecLists
+
+For SSH passphrase auditing, consider:
+
+
 
 ------------------------------------------------------------------------
 
