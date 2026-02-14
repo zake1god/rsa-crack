@@ -25,7 +25,7 @@ attacks with john, and clearly displays recovered passphrases.
 
 ------------------------------------------------------------------------
 
-![ZRACK Demo](demo.gif)
+![ZRACK Preview](preview.gif)
 
 ⚠ Disclaimer
 
