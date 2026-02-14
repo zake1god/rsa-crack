@@ -1,3 +1,7 @@
+![Stars](https://img.shields.io/github/stars/zake1god/rsa-crack)
+![License](https://img.shields.io/github/license/zake1god/rsa-crack)
+
+    
     ███████╗██████╗  █████╗  ██████╗██╗  ██╗
     ╚══███╔╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
       ███╔╝ ██████╔╝███████║██║     █████╔╝ 
